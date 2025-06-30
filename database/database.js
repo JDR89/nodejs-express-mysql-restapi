@@ -9,4 +9,5 @@ const pool = createPool({
     port: DB_PORT,
 })
 
+
 export default pool;

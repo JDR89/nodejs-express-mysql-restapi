@@ -5,7 +5,7 @@ USE company_db;
 CREATE TABLE employee(
     id INT(11) AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(55) DEFAULT NULL,
-    salary INT(5) DEFAULT NULL,
+    salary INT(5) DEFAULT NULL
 );
 
 
